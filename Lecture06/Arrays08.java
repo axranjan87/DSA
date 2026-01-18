@@ -1,8 +1,6 @@
 /* ShallowCopyDeepCopy */
-package DSA.Lecture06;
-
+package Lecture06;
 import java.util.Arrays;
-
 public class Arrays08 {
     public static void main(String[] args) {
        int arr[] = {10,20,30,40};
