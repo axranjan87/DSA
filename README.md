@@ -7,16 +7,17 @@ All programs are implemented and tested using **VS Code**, and organized **lectu
 
 ## 📂 Repository Structure
 
-DSA/
+<!-- DSA/
 │
-├── Lecture01/
-├── Lecture02/
-├── Lecture03/
-├── Lecture04/
-├── Lecture05/
-├── Lecture06/
-│
-└── README.md
+├── Lecture01/n
+├── Lecture02/n
+├── Lecture03/n
+├── Lecture04/n
+├── Lecture05/n
+├── Lecture06/n
+│__ 
+|
+└── README.md -->
 
 
 Each `Lecture` folder includes Java programs related to that lecture’s DSA topics.
