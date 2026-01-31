@@ -4,7 +4,7 @@ package Lecture01;
  */
 
 //import java.util.Scanner;
-public class Basics {
+public class Basics01 {
     public static void main(String[]args){
        /*  Scanner sc = new Scanner(System.in);
         int Shru = sc.nextInt();*/

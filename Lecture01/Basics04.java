@@ -1,6 +1,8 @@
+/* Input from user */
+
 package Lecture01;
 import java.util.Scanner;
-public class Input {
+public class Basics04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your name: ");

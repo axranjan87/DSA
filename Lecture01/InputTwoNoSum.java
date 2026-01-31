@@ -1,6 +1,7 @@
+/* add two no input from user */
 package Lecture01;
 import java.util.Scanner;
-public class Q02 {
+public class InputTwoNoSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");
