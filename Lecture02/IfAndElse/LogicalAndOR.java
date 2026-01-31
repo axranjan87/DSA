@@ -1,8 +1,8 @@
 /* Multiple Conditions using &&(logical and) and ||(logical or) 
    Take positive integer input and tell if it is a four digigt number or not */
-package Lecture02;
+package Lecture02.IfAndElse;
 import java.util.Scanner;
-public class IfElse04 {
+public class LogicalAndOR {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number : ");

@@ -1,7 +1,7 @@
 /* Take positive integer input and tell if it is divisible by 5 or 3. */
-package Lecture02;
+package Lecture02.IfAndElse;
 import java.util.Scanner;
-public class IfElse05 {
+public class DivisibleCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter positive integer : ");

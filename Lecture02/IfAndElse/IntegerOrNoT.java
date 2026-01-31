@@ -1,8 +1,8 @@
 /* Take real number input from the user and check if it is an integer or not  */
 
-package Lecture02;
+package Lecture02.IfAndElse;
 import java.util.Scanner;
-public class IfElse02 {
+public class IntegerOrNoT {
     public static void main (String[]args){
         Scanner sc = new Scanner(System.in);
         System.out.print("The number is integer or not : ");
