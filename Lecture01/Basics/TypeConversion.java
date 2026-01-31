@@ -1,4 +1,4 @@
-package Lecture01;
+package Lecture01.Basics;
 public class TypeConversion {
     public static void main(String[] args) {
         int a = 10;
@@ -10,7 +10,7 @@ public class TypeConversion {
         int y = (int) x; // explicit type conversion from double to int
         System.out.println("Double value: " + x);
         System.out.println("Integer value: " + y);
-        
+
     }
 }
 

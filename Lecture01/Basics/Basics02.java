@@ -1,4 +1,4 @@
-package Lecture01;
+package Lecture01.Basics;
 public class Basics02 {
     public static void main(String[] args) {
         byte b = 8;

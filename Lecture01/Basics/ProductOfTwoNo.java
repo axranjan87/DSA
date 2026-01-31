@@ -1,5 +1,5 @@
 /* product of two numbers */
-package Lecture01;
+package Lecture01.Basics;
 import java.util.Scanner;
 public class ProductOfTwoNo {
     public static void main(String[]args){

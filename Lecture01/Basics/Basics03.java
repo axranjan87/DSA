@@ -1,4 +1,4 @@
-package Lecture01;
+package Lecture01.Basics;
 public class Basics03 {
     public static void main(String[] args) {
     int a = 10;

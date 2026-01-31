@@ -1,4 +1,4 @@
-package Lecture01;
+package Lecture01.Basics;
  /*
  1.) Output, 02. Variable & Data types 03. operator,  04. input
  */

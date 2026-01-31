@@ -1,4 +1,4 @@
-package Lecture01;
+package Lecture01.Basics;
 public class TypeCasting {
     public static void main(String[]args){
         double d = 100.04;

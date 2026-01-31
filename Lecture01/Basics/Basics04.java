@@ -1,6 +1,6 @@
 /* Input from user */
 
-package Lecture01;
+package Lecture01.Basics;
 import java.util.Scanner;
 public class Basics04 {
     public static void main(String[] args) {

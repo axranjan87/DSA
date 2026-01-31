@@ -1,5 +1,5 @@
 /* Area of a circle */
-package Lecture01;
+package Lecture01.Basics;
 import java.util.Scanner;
 public class AreaOfcircle {
     public static void main(String[]args){

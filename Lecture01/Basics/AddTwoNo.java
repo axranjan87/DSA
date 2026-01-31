@@ -1,5 +1,5 @@
 /* add two no */
-package Lecture01;
+package Lecture01.Basics;
 public class AddTwoNo {
     public static void main(String[] args) {
     int a = 10;
