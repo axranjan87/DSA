@@ -1,7 +1,7 @@
 /* Reverse of a number */
-package Lecture03;
+package Lecture03.WhileLoop;
 import java.util.Scanner;
-public class Loops09 {
+public class ReverseNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number : ");

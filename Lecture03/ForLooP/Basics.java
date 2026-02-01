@@ -1,7 +1,7 @@
 /* Basics Looping Questions */
-package Lecture03;
+package Lecture03.ForLooP;
 import java.util.Scanner;
-public class Loops01 {
+public class Basics {
     public static void main(String[] args) {
         /*for(int i=5; i<=12; i++){
             System.out.println("Shru");

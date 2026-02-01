@@ -1,6 +1,6 @@
-package Lecture03;
+package Lecture03.ForLooP;
 import java.util.Scanner;
-public class Loops11 {
+public class PowerCal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // System.out.print("Enter the digit : ");

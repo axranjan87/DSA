@@ -1,7 +1,7 @@
 /* count digit of a number  */
-package Lecture03;
+package Lecture03.WhileLoop;
 import java.util.Scanner;
-public class Loops07 {
+public class CountDigitOfNo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter digit : ");

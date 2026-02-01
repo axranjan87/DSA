@@ -1,7 +1,7 @@
 /* WAP to print if number is composite or not */
-package Lecture03;
+package Lecture03.ForLooP;
 import java.util.Scanner;
-public class Loops05 {
+public class CompositeNo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Number : ");
