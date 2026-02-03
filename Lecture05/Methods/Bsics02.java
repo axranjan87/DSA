@@ -1,5 +1,5 @@
-package Lecture05;
-public class Methods04 {
+package Lecture05.Methods;
+public class Bsics02 {
     public static void sum(int a, int b){ //parameter
         System.out.println(a+b);
     }

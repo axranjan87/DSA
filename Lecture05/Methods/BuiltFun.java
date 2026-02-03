@@ -1,6 +1,6 @@
-package Lecture05;
+package Lecture05.Methods;
 import java.util.Scanner;
-public class Methods01 {
+public class BuiltFun {
     public static void main(String[]args){
         /* Math. wale method like Math.sqrt */
         Scanner sc = new Scanner(System.in);

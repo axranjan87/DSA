@@ -1,5 +1,5 @@
-package Lecture05; // returntype
-public class Methods05 {
+package Lecture05.Methods; // returntype
+public class Bsics01 {
     public static int shru(){
         System.out.println("Ayush");
         return 1;
