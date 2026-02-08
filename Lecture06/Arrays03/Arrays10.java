@@ -1,5 +1,5 @@
 /* Product of Array */
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays10 {
     public static void main(String[] args) {
         int [] arr = {3,2,1,-5,-2};

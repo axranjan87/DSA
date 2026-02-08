@@ -1,5 +1,5 @@
 /* print the minimum element in the array */
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays11 {
     public static void main(String[] args) {
         int arr[] ={8,5,6,7,2,9,1};

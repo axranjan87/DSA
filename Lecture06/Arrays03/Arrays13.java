@@ -1,6 +1,6 @@
 /* Search an Array [Linear search]*/
 
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays13 {
     public static void main(String[] args) {
        int arr[] = {12,3,27,53,18,62,88,6 };

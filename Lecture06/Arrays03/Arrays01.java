@@ -1,4 +1,4 @@
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays01 {
     public static void main(String[]args){
         int[]x={6,5,4,2,3,9,8,4};    // initialization of array

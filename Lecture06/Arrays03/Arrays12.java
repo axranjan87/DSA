@@ -1,5 +1,5 @@
 /* Multiply odd indexed elements by 2 and odd 10 to even indexed elements */
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays12 {
     public static void main(String[] args) {
         int [] arr ={3,2,5,6,1,0};

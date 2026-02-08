@@ -1,4 +1,4 @@
-package Lecture06;
+package Lecture06.Arrays03;
 import java.util.Scanner;
 public class Arrays04 {
     public static void main(String[]args){

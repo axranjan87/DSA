@@ -1,5 +1,5 @@
 /* Reverse Arrays */
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays17 {
     public static void main(String[] args) {
         int arr[] = {3,19,56,9,83,18,24,85,14};

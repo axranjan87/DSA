@@ -1,5 +1,5 @@
 /* Basics of ArrayList */
-package Lecture06;
+package Lecture06.Arrays03;
 import java.util.ArrayList;
 public class ArrayList01 {
     public static void main(String[] args) {

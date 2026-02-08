@@ -1,5 +1,5 @@
 /* SortArrayBuiltIn */
-package Lecture06;
+package Lecture06.Arrays03;
 import java.util.Arrays;
 public class Arrays09 {
     public static void main(String[] args) {

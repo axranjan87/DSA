@@ -1,5 +1,5 @@
 /* Print the second maximum element in the Array */
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays15 {
     public static void main(String[] args) {
         int[]arr = {4,10,10,6,3,8};

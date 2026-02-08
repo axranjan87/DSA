@@ -1,6 +1,6 @@
 /* TWO SUM */
 
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays14 {
     public static void main(String[]args){
         int arr[] = {4,5,8,5,8,9,1};

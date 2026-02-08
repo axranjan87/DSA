@@ -1,5 +1,5 @@
 /* PassingArrayToMethod */
-package Lecture06;
+package Lecture06.Arrays03;
 public class Arrays07 {
     public static void main(String[] args) {
         int arr[] = {10,23,52,46,16};
