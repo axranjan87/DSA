@@ -22,7 +22,7 @@ public class MaxSubArraySum {
     }
 
     public static void main(String[] args) {
-        int numbers[] = {1,-2,6,-1,4};
+        int numbers[] = {1,-2,6,-1,5};
         findMaxSubArraySum(numbers);
     }
 }

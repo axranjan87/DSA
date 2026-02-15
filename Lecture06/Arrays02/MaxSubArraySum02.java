@@ -28,7 +28,7 @@ public class MaxSubArraySum02 {
 
 
     public static void main(String[] args) {
-        int numbers[] = {1,-2,6,-1,3,5};
+        int numbers[] = {1,-2,6,-1,3,4};
         MaxSubArrayPrefix(numbers);
     }
 }
