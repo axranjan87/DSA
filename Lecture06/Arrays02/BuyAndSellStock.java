@@ -21,7 +21,7 @@ public class BuyAndSellStock {
 
 
     public static void main(String[] args) {
-        int prices[] = {7,1,5,3,6,8};
+        int prices[] = {7,1,5,3,6,5};
         System.out.println(stock(prices));
 
     }

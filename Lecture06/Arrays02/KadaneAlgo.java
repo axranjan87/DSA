@@ -18,7 +18,7 @@ public class KadaneAlgo {
     }
 
     public static void main(String[] args) {
-        int numbers[] = {-2,-3,4,-1,-2,1,5,-3,6};
+        int numbers[] = {-2,-3,4,-1,-2,1,5,-3,4};
         MaxSubArrayKadane(numbers);
     }
 }
