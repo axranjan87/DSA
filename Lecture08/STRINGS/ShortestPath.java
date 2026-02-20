@@ -32,7 +32,7 @@ public class ShortestPath {
         return (float)Math.sqrt(X2 + Y2);
     }
     public static void main(String[] args) {
-        String path = "WNEENESENNN";
+        String path = "WNEENESENNNN";
         System.out.println(getShortestPath(path));
     }
 }

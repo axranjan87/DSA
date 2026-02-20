@@ -10,8 +10,8 @@ public class Basics03 {
 
         /* String CharAt Method */
 
-        String firstname = "Ayush";
-        String Lastname = "Ranjan";
+        String firstname = "AYUSH";
+        String Lastname = "RANJAN";
         String fullname = firstname + " " + Lastname;
         //System.out.println(fullname.charAt(1));  for single letter
 
