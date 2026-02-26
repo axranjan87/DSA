@@ -15,7 +15,7 @@ public class PairsInArrays {
     }
 
     public static void main(String[] args) {
-        int numbers[] = {2,4,6,8,11};
+        int numbers[] = {2,4,6,8,10};
         pair(numbers);
 
     }
