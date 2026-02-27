@@ -17,7 +17,7 @@ public class LargestNumber {
         return largest;
     }
     public static void main(String[] args) {
-        int numbers[] = {10,20,30,18,11};
+        int numbers[] = {10,20,30,18,10};
         System.out.println(getLargest(numbers));
     }
 }
