@@ -10,7 +10,7 @@ public class LinearSearch {
         return -1;
     }
     public static void main(String[] args) {
-        int number [] = {2,4,6,8,10,12,14,16,18,30};
+        int number [] = {2,4,6,8,10,12,14,16,18,20};
         int key = 10;
 
         int index = Lsearch(number, key);
