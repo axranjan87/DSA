@@ -20,7 +20,7 @@ public class BublleSort {
     } 
 
     public static void main(String[] args) {
-        int arr[] = {5,4,3,1,6,2};
+        int arr[] = {5,4,3,1,6,7};
         SortBublle(arr);
         printArr(arr);
     }
